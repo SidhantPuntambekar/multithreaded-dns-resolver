@@ -4,7 +4,6 @@
 #include <sys/time.h> // Timing the main function
 
 // Author: Sidhant Puntambekar
-// Collaborator: Vignesh Chandrasekhar
 
 void* requester(void* args) // Requesters should read hostnames from the file and then insert into shared array
 {

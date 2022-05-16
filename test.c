@@ -6,7 +6,6 @@
 #include <pthread.h>
 
 // Author: Sidhant Puntambekar
-// Collaborator: Vignesh Chandrasekhar
 
 // Part A (Producers and consumers allowed to do the same amount of work)
 #define PRODUCE_THREADS 5 // Define macro for producer threads 

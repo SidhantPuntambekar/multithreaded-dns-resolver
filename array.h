@@ -10,7 +10,6 @@
 #include <stdlib.h>
 
 // Author: Sidhant Puntambekar
-// Collaborator: Vignesh Chandrasekhar
 
 #define ARRAY_SIZE 8 // Number of elements in the stack shared array
 #define MAX_NAME_LENGTH 256 // Size of each element/string in the stack shared array

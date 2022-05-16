@@ -4,7 +4,6 @@
 #include <stdio.h>
 
 // Author: Sidhant Puntambekar
-// Collaborator: Vignesh Chandrasekhar
 
 int array_init(stack *a) // Init the stack
 {
